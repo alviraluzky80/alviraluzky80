@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Alvira Darise–
+## About me :
+- 🌱 I'm currently learning Python and Java script
+- 💬 Ask me about anything
+- 📫 How to reach me: alviraluzky2@gmail.com 
+- ⚡ Fun fact: I like Science and Mathematics
 
-<!--
-**alviraluzky80/alviraluzky80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education :
+#### 1. [ SMP N 2 GORONTALO ] (https://share.google/E7hiVWCeH8mFfYNpJ) | Student Council Vice Chief I 'SMP N 2 GORONTALO 2025/2026'
+- Ex SpenduGo Scout (2025)
+- Gorontalo Math Competition (2025)
+ #### 2. [ SD N 41 HULONTHALANGI GORONTALO ] (https://share.google/rJdcnOo4R8AHKR6pC) | Top Student 'SD N 41 HULONTHALANGI GORONTALO' 2019/2024
+ - Ex Gita Bahana SD N 41 HULONTHALANGI (2024)
+ - Ex SD N 41 HULONTHALANGI SCOUT (2024)
+ - Olimpiade Sains Nasional (OSN) Math 'Kota Gorontalo (2024)'
+ - Festival Loma Seni Siswa Nasional (FLS2N) Gambar Bercerita 'Kota Gorontalo (2024)'
+   ---
 
-Here are some ideas to get you started:
+   ### Connect with me :
+   [![website](https://www.instagram.com/d.luzk?igsh=MXZjeXI3M3AwdWM5eg==)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   [webdev]: https://github.com/alviraluzky80/alviraluzky80
