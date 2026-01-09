@@ -13,7 +13,8 @@
  - Ex Gita Bahana SD N 41 HULONTHALANGI (2024)
  - Ex SD N 41 HULONTHALANGI SCOUT (2024)
  - Olimpiade Sains Nasional (OSN) Math 'Kota Gorontalo (2024)'
- - Festival Loma Seni Siswa Nasional (FLS2N) Gambar Bercerita 'Kota Gorontalo (2024)'
+ - Festival Loma Seni Siswa Nasional (FLS2N) Gambar Bercerita 'Kota Gorontalo (2024
+
    ---
 
    ### Connect with me :
