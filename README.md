@@ -11,13 +11,13 @@
 - Gorontalo Math Competition (2025)
  #### 2. [ SD N 41 HULONTHALANGI GORONTALO ] (https://share.google/rJdcnOo4R8AHKR6pC) | Top Student 'SD N 41 HULONTHALANGI GORONTALO' 2019/2024
  - Ex Gita Bahana SD N 41 HULONTHALANGI (2024)
- - Ex SD N 41 HULONTHALANGI SCOUT (2024)
  - Olimpiade Sains Nasional (OSN) Math 'Kota Gorontalo (2024)'
  - Festival Loma Seni Siswa Nasional (FLS2N) Gambar Bercerita 'Kota Gorontalo (2024
-
+ - Kompetisi Sains Ruang Guru (KSR) Math 'Kota Gorontalo (2024)'
+  
    ---
 
    ### Connect with me :
-   [![website](https://www.instagram.com/d.luzk?igsh=MXZjeXI3M3AwdWM5eg==)
+   https://www.instagram.com/d.luzk?igsh=MXZjeXI3M3AwdWM5eg==
 
    [webdev]: https://github.com/alviraluzky80/alviraluzky80
